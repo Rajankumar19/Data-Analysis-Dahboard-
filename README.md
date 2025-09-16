@@ -46,6 +46,6 @@ Using **Excel for data cleaning** and **Power BI for visualization**, we created
 
 ---
 
-Amazon-Sales-Report-20K-Rows.xlsx (dataset)
+- <a href=""> Dataset </a>
 
 Amazon project.png (dashboard screenshot)
